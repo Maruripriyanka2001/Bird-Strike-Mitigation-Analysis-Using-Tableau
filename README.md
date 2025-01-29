@@ -1,8 +1,8 @@
-# Bird-Strike-Mitigation-Analysis-Using-Tableau
+# Bird-Strike-Mitigation-Analysis-Using-Tableau Dashboard
 This project analyzes bird strike incidents in aviation using Tableau dashboards to uncover patterns, safety risks, and cost impacts. The dataset provides insights into bird strike occurrences, affected aircraft models, airport hotspots, and financial implications for airlines.
 
 
-# Bird Strike Mitigation Analysis Using Tableau  
+# Bird Strike Mitigation Analysis Using Tableau Dashboard
 
 ## Overview  
 This project analyzes bird strike incidents in aviation using **Tableau** to enhance **safety, regulatory compliance, and cost management**. The data explores **wildlife strike patterns, aircraft impact, and financial implications**.  
